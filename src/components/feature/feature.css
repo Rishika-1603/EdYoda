@@ -1,0 +1,26 @@
+.feature_content{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin-left: 3rem;
+    color: #fff;
+    font-family: roboto;
+    /* font-weight: ; */
+    
+    
+}
+
+.feature__content_image{
+    height: 70px;
+    width: 70px;
+    flex-direction: row;
+    
+    
+
+}
+.feature__content_text{
+
+    display: flex;
+    flex-direction: row;
+
+}
